@@ -1,4 +1,4 @@
-# darkweb
+# darkweb is too dangerous
 
 This used to be the repository holding the DarkScience website, that has been
 moved to https://git.drk.sc/darkscience/darkscience.net.
